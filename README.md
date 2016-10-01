@@ -1,4 +1,4 @@
-# President Josiah Edward "Jed" Bartlet
+# President Josiah Edward "Jed" Bartlet Debate Bot
 
 This is a submission to a Nerdery JVM Code Challenge. The challenge is to produce a CLI "chatbot" which responds to
 2016 presidential debate questions (or really anything you care to throw at it).
